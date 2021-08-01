@@ -24,12 +24,12 @@ The following skins are avaliable at the moment
 
 ## 1. Default_12_gears
 
-![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Default%2012%20gear.jpg)
+![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Default%2012%20gear1.jpg)
 
 
 ##2. Eaton_18_gears
 
-![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Eaton%2018%20gear.jpg)
+![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Eaton%2018%20gear1.jpg)
 
 ## Future plan
 I am working on 
