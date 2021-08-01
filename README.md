@@ -22,12 +22,16 @@ After you have installed the ETS2/ATS2 telemetry web server, copy the skin direc
 ## Current skins avaliable
 The following skins are avaliable at the moment
 
-1. Default_12_gears
+1. Default_12_gears  
+
+Download the "acarde12gears" directory copy the whole directory to server/Html/skins after installing ET2 Telemetry Web server.
 
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Default%2012%20gear1.jpg)
 
 
 2. Eaton_18_gears
+
+Download the "acarde18gears" directory copy the whole directory to server/Html/skins after installing ET2 Telemetry Web server.
 
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Eaton%2018%20gear1.jpg)
 
