@@ -22,16 +22,16 @@ After you have installed the ETS2/ATS2 telemetry web server, copy the skin direc
 ## Current skins avaliable
 The following skins are avaliable at the moment
 
-###1. Default_12_gears
+1. Default_12_gears
 
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Default%2012%20gear1.jpg)
 
 
-##2. Eaton_18_gears
+2. Eaton_18_gears
 
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Eaton%2018%20gear1.jpg)
 
 ## Future plan
-I am working on 
+I am working on the following sets of gearboxs
 
-
+![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/future%20plan.PNG)
