@@ -1,0 +1,303 @@
+@font-face {
+	font-family: 'DSDIGI';
+	src: url('fonts/DSDIGI.eot');
+	src: local('DSDIGI'), url('fonts/DSDIGI.woff') format('woff'), url('fonts/DSDIGI.ttf') format('truetype');
+}
+
+body {
+  cursor: pointer;
+}
+.hidden {
+  visibility: hidden;
+}
+.visible {
+  visibility: visible;
+}
+.dashboard {
+	background-image: url("images/bg-off.png"); 
+}
+.dashboard.game-connected.yes {
+	background-image: url("images/bg-on.png");
+}
+.truck-Pedal {
+	background-image: url("images/pedal.png");
+	position: absolute;
+	left: 60px;
+	top: 500px;
+	width: 487px;
+	height: 319px;
+}
+.truck-displayedGear {
+	color: #FF0000;
+	font-size: 150px;
+	font-weight: bold;
+	position: absolute;
+	left: 870px;
+	top: 40px;
+}
+._gameClutchBar {
+	background-image: url("images/sidebar02u.png");
+	position: absolute;
+	left: 120px;
+	top: 162px;
+	width: 70px;
+	height: 303px;
+}
+._userClutchBar {
+	background-image: url("images/sidebar01u.png");
+	position: absolute;
+	left: 120px;
+	top: 162px;
+	width: 70px;
+}
+._gameBrakeBar {
+	background-image: url("images/sidebar02u.png");
+	position: absolute;
+	left: 270px;
+	top: 162px;
+	width: 70px;
+	height: 303px;
+}
+._userBrakeBar {
+	background-image: url("images/sidebar01u.png");
+	position: absolute;
+	left: 270px;
+	top: 162px;
+	width: 70px;
+}
+._gameThrottleBar {
+	background-image: url("images/sidebar02u.png");
+	position: absolute;
+	left: 450px;
+	top: 162px;
+	width: 70px;
+	height: 303px;
+}
+._userThrottleBar {
+	background-image: url("images/sidebar01u.png");
+	position: absolute;
+	left: 450px;
+	top: 162px;
+	width: 70px;
+}
+._gearR1{
+	background-image: url("images/gear-1.png");
+	position: absolute;
+	left: 100px;
+	top: 850px;
+	width: 486px;
+}
+._gearR2{
+	background-image: url("images/gear-2.png");
+	position: absolute;
+	left: 100px;
+	top: 850px;
+	width: 486px;
+}
+._gearN{
+	background-image: url("images/gearN.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear1{
+	background-image: url("images/gear1.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear2{
+	background-image: url("images/gear2.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear3{
+	background-image: url("images/gear3.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear4{
+	background-image: url("images/gear4.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear5{
+	background-image: url("images/gear5.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear6{
+	background-image: url("images/gear6.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear7{
+	background-image: url("images/gear7.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear8{
+	background-image: url("images/gear8.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear9{
+	background-image: url("images/gear9.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear10{
+	background-image: url("images/gear10.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear11{
+	background-image: url("images/gear11.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear12{
+	background-image: url("images/gear12.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear13{
+	background-image: url("images/gear13.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear14{
+	background-image: url("images/gear14.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear15{
+	background-image: url("images/gear15.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear16{
+	background-image: url("images/gear16.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear17{
+	background-image: url("images/gear17.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+._gear18{
+	background-image: url("images/gear18.png");
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	width: 486px;
+}
+.truck-Pedal,
+.truck-displayedGear,
+._userThrottleBar,
+._userClutchBar,
+._userBrakeBar,
+._gameBrakeBar,
+._gameThrottleBar,
+._gameClutchBar,
+._gearN,
+._gearR1,
+._gearR2,
+._gear1,
+._gear2,
+._gear3,
+._gear4,
+._gear5,
+._gear6,
+._gear7,
+._gear8,
+._gear9,
+._gear10,
+._gear11,
+._gear12,
+._gear13,
+._gear14,
+._gear15,
+._gear16,
+._gear17,
+._gear18 {
+	visibility: hidden;
+	font-family: 'DSDIGI', Arial, Helvetica, sans-serif;
+	font-size:85px;
+}
+
+.truck-displayedGear {
+	font-family: 'DSDIGI';
+	font-size: 200px;
+	font-weight: bold;
+	position: absolute;
+	left: 260px;
+	top: 900px;
+}
+.dashboard.game-connected.yes .truck-Pedal,
+.dashboard.game-connected.yes .truck-displayedGear,
+.dashboard.game-connected.yes ._userClutchBar,
+.dashboard.game-connected.yes ._gameClutchBar,
+.dashboard.game-connected.yes ._userBrakeBar,
+.dashboard.game-connected.yes ._gameBrakeBar,
+.dashboard.game-connected.yes ._userThrottleBar,
+.dashboard.game-connected.yes ._gameThrottleBar,
+.dashboard.game-connected.yes ._gearN,
+.dashboard.game-connected.yes ._gearR1,
+.dashboard.game-connected.yes ._gearR2,
+.dashboard.game-connected.yes ._gear1,
+.dashboard.game-connected.yes ._gear2,
+.dashboard.game-connected.yes ._gear3,
+.dashboard.game-connected.yes ._gear4,
+.dashboard.game-connected.yes ._gear5,
+.dashboard.game-connected.yes ._gear6,
+.dashboard.game-connected.yes ._gear7,
+.dashboard.game-connected.yes ._gear8,
+.dashboard.game-connected.yes ._gear9,
+.dashboard.game-connected.yes ._gear10,
+.dashboard.game-connected.yes ._gear11,
+.dashboard.game-connected.yes ._gear12,
+.dashboard.game-connected.yes ._gear13,
+.dashboard.game-connected.yes ._gear14,
+.dashboard.game-connected.yes ._gear15,
+.dashboard.game-connected.yes ._gear16,
+.dashboard.game-connected.yes ._gear17,
+.dashboard.game-connected.yes ._gear18{
+	visibility: visible;
+}
+
