@@ -10,7 +10,7 @@ It can also be used for OBS streaming. This skin aims to provide a gerabox shift
 
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/example.PNG)
 
-Note: The dashboard in the middle is the default skin contributed 
+#Note: The dashboard in the middle is the default skin contributed by Funbits. 
 
 
 ### Installation of ETS2 Telemetry Web Server
