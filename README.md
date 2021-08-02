@@ -37,7 +37,7 @@ Download the "acarde18gears.zip" file. Unzip the whole directory to server/Html/
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Eaton%2018%20gear1.jpg)
 
 3. ZF 12 gears (commonly used in Iveco, DAF, Man and Renault trucks)
-![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/ZF12.jpg)
+![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/ZF12a.jpg)
 
 
 ## Future plan
