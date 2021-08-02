@@ -37,6 +37,9 @@ Download the "acarde18gears.zip" file. Unzip the whole directory to server/Html/
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/Eaton%2018%20gear1.jpg)
 
 3. ZF 12 gears (commonly used in Iveco, DAF, Man and Renault trucks)
+
+Download the "acardeZF12.zip" file. Unzip the whole directory to server/Html/skins after installing ET2 Telemetry Web server.
+
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/ZF12a.jpg)
 
 
