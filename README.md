@@ -1,6 +1,7 @@
 ### ETS2 Telemetry Web Server Gearbox and gas pedal skins 
 - 👋 Hi, my name is Hiro
 - 👀 I’m interested in Eurotruck simulatior 2 and the following are some skins I have created based on the https://github.com/Funbit/ets2-telemetry-server
+- The site for downloading the skins can be reached at https://github.com/Hirotoshi694/Hirotoshi694
 
 ### Background
 
