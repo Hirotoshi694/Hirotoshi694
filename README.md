@@ -31,15 +31,15 @@ Download the "acarde12gears.zip" file. Unzip the whole directory to server/Html/
 
 2. Eaton 10 gears
 
-Download the "acarde13gears.zip" file. Unzip the whole directory to server/Html/skins after installing ET2 Telemetry Web server.
-
-![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/eaton13speed.jpg)
-
-3. Eaton 13 gears
-
 Download the "acarde10.zip" file. Unzip the whole directory to server/Html/skins after installing ET2 Telemetry Web server.
 
 ![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/eaton10speeda.jpg)
+
+3. Eaton 13 gears
+
+Download the "acarde13gears.zip" file. Unzip the whole directory to server/Html/skins after installing ET2 Telemetry Web server.
+
+![alt text](https://github.com/Hirotoshi694/Hirotoshi694/blob/main/eaton13speed.jpg)
 
 3. Eaton 18 gears
 
